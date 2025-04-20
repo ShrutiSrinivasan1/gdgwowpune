@@ -21,6 +21,16 @@ Google Developer Group Women in Tech (GDG WOW) Pune is a community-driven initia
 - **Networking Events**: Opportunities to connect with like-minded professionals
 - **Study Jams**: Group learning sessions on specific technologies
 
+## Upcoming Workshop
+
+We're excited to announce our upcoming workshop on GitHub fundamentals!
+
+📅 **Date**: May 10, 2025  
+📍 **Location**: Pune Tech Hub, Koregaon Park  
+📝 **Topic**: Introduction to GitHub  
+
+Check out the [detailed agenda](./workshop_agenda.md) for more information.
+
 ## Get Involved
 
 - Join our community on [GDG Community Platform](https://gdg.community.dev/)
